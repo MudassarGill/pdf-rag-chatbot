@@ -48,3 +48,4 @@ This project uses a python virtual environment `venv` which already contains all
 
 ---
 *Powered by FastAPI, LangChain, FAISS, and Gemini 2.0 Flash.*
+*Developed by Mudassar Gill*
